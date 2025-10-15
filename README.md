@@ -1,4 +1,4 @@
-# ZK Credo
+# ZK Credo#############
 
 ## Freedom → Progress → Prosperity
 
